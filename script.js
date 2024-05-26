@@ -1,0 +1,1 @@
+console.log("This is Day2 Task");
